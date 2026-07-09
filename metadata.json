@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Hospital & Queue Management Platform",
+  "description": "An end-to-end clinical workflow and hospital administration SaaS with real-time queue synchronization, an AI-assisted dictation scribe, and clinical safeguard verification.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
